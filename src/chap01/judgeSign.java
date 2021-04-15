@@ -2,9 +2,9 @@ package chap01;
 
 import java.util.Scanner;
 
-public class JudgeSign {
+public class judgeSign {
 
-	public JudgeSign() {
+	public judgeSign() {
 		// TODO Auto-generated constructor stub
 	}
 

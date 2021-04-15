@@ -41,3 +41,4 @@ public class Sumwhile_sub {
 //		1부터 8까지의 합은 8번째 합인 36입니다.
 
 	}
+}

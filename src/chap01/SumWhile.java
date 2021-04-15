@@ -1,8 +1,9 @@
 package chap01;
 
+
 import java.util.Scanner;
 
-public class Sumwhile {
+public class SumWhile {
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
