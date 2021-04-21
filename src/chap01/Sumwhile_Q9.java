@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //연습문제 Q9
 
-public class Sumwhile_sub3 {				
+public class Sumwhile_Q9 {				
 	static int sumof(int a, int b) {
 			
 			int sum = 0;

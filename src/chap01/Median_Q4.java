@@ -12,12 +12,12 @@ import java.util.Scanner;
  * @author 82108
  *
  */
-public class Median {
+public class Median_Q4 {
 
 	/**
 	 * 
 	 */
-	public Median() {
+	public Median_Q4() {
 		// a,b,c,d의 최솟값을 구하여 반환합니다.
 	}
 

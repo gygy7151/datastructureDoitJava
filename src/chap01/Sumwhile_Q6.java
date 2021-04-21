@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //연습문제 Q6
 
-public class Sumwhile_sub {
+public class Sumwhile_Q6 {
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
